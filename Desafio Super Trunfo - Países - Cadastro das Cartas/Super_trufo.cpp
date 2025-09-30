@@ -1,4 +1,7 @@
 #include <stdio.h>
+scanf(" %c", &estado1);
+
+// Documentação: Trabalho de programação - Super Trunfo - Cadastro das Cartas
 
 int main() {
     // Declaração das variáveis da Carta 1
